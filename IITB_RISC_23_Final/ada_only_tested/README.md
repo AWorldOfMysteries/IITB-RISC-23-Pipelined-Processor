@@ -1,2 +1,3 @@
-# Aaj kar dena sir
-Hojayega BOSS
+## ada r3, r4, r5 ("0001 011 100 101 000") -----> at address 0 
+## r3=3, r4=4
+## r5 ----> 7
