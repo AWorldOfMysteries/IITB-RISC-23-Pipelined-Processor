@@ -1,2 +1,3 @@
-# YOU CAN DO IT ALONE
-## This is my sole attempt for the project
+# IITB CPU - EE 339 Microprocessors
+
+Course Project
